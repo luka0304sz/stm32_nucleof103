@@ -1,0 +1,13 @@
+BMXX80.c:72:9:BME280_Read8	32	static
+BMXX80.c:113:10:BME280_Read16	32	static
+BMXX80.c:123:10:BME280_Read16LE	8	static
+BMXX80.c:154:6:BME280_Write8	32	static
+BMXX80.c:159:10:BME280_Read24	32	static
+BMXX80.c:292:9:BME280_IsReadingCalibration	8	static
+BMXX80.c:299:6:BME280_SetConfig	0	static
+BMXX80.c:304:6:BME280_Init	32	static
+BMXX80.c:436:7:BME280_ReadTemperature	8	static
+BMXX80.c:559:9:BME280_ReadPressure	40	static
+BMXX80.c:589:7:BME280_ReadHuminidity	8	static
+BMXX80.c:680:9:BME280_ReadTemperatureAndPressureAndHuminidity	48	static
+BMXX80.c:738:7:BME280_ReadAltitude	8	static
